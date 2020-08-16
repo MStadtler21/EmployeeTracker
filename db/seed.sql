@@ -38,4 +38,4 @@ VALUES
     ("Ben", "Kissel", 7, null),
     ("Chick", "Korea", 8, null),
     ("Bill", "Withers", 9, null),
-    ("Joe", "Johnson", 10, null);
+    ("Joe", "Johnson", 10, null)
