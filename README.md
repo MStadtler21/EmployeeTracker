@@ -15,3 +15,7 @@ This employee-tracker that utilizes Node, Inquirer, and MySQL lets employers fin
 2. Run the employee_db database.
 3. Open the correct file in the terminal.
 4. Use the command 'node server.js' in the command line to execute the program.
+
+## Example
+
+Find an example of the apllication in use: [https://drive.google.com/file/d/1_wOV5Olrvvr3ACmqKwfzT7VOuKZNvD9E/view]
